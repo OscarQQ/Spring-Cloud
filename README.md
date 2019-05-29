@@ -1,7 +1,7 @@
 # Spring-Cloud
 Spring Boot + Spring Cloud + Eureka + Feign
 
-##Boot Start
+## Boot Start
 Enable Cluster Eureka Servers, Achieve high availabilities
 > `cd spring-cloud-server`
 
